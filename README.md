@@ -1,2 +1,2 @@
 # image-classifier
- Project Image Classifier from Udacity
+ Udacity Project Files for the Image Classifier project for the Introduction to Machine Learning with TensorFlow Nanodegree
